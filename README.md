@@ -6,3 +6,4 @@
 4. [Collection Framework and Generics](https://www.youtube.com/watch?v=Bqv4At5vHVQ&list=PLd3UqWTnYXOkQaGh9w_DvqJdJ7klq5or7)
 5. [Spring Framework](https://www.youtube.com/watch?v=YpsFT50mths&list=PLd3UqWTnYXOlc93disyBjyFv-r1Vq-5zh)
 6. [Spring framework](https://www.youtube.com/watch?v=rI3VkItC0eA&list=PLBKgXPzyseMzEQpk5i-5tLTH310OsWBs-)
+7. [Spring core](https://www.youtube.com/watch?v=r2Q0Jzl2qMQ&list=PL3NrzZBjk6m-nYX072dSaGfyCJ59Q5TEi)
