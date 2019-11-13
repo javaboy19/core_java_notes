@@ -13,3 +13,5 @@
 11. [Design patterns implemented in Java ](https://java-design-patterns.com/patterns/)
 12. [Design patterns implemented in Java github](https://github.com/iluwatar/java-design-patterns)
 13. [Design pattern](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+14. [system-design-primer](https://github.com/donnemartin/system-design-primer)
+15. [Index of system design topics](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
